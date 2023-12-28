@@ -67,7 +67,6 @@ RUN   \
   &&  echo 'alias less="less -Ri"'            >> /root/.bashrc \
   &&  echo 'alias grep="grep -E --color"'     >> /root/.bashrc \
   &&  echo 'alias  sed="sed  -r"'             >> /root/.bashrc \
-  &&  echo 'alias   jq="jq   --color-output"' >> /root/.bashrc \
   &&  echo 'alias  cls="clear"'               >> /root/.bashrc \
   \
   `#############` \
